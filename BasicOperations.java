@@ -1,4 +1,3 @@
-package BasicOperations;
 
 // BasicOperations. Java
 public class BasicOperations {
